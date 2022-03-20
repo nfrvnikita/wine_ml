@@ -1,2 +1,2 @@
-# wine_ml
+# Wine ML-model
 Wine prediction
